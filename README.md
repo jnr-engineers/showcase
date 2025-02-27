@@ -71,7 +71,7 @@ We invite **Junior Engineers instructors** to collaborate, share ideas, and enga
 
 1. Visit the [Discussion Board](#)💬 .
 2. Start a new thread or join an existing conversation.
-3. Share your thoughts, resources, or feedback — we love hearing from all instructors!
+3. Share your thoughts, resources, or feedback — we love hearing everyone!
 
 ---
 
