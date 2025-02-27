@@ -69,7 +69,7 @@ We invite **Junior Engineers instructors** to collaborate, share ideas, and enga
 
 ### To Join the Discussion:
 
-1. Visit the [Discussion Board](#)💬 .
+1. Visit the [Discussion Board](https://github.com/jnr-engineers/showcase/discussions)💬 .
 2. Start a new thread or join an existing conversation.
 3. Share your thoughts, resources, or feedback — we love hearing everyone!
 
