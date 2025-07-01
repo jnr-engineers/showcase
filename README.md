@@ -1,4 +1,4 @@
-# 💥📣 Welcome to the Junior Engineers Showcase! 🌟🎉**
+# 💥📣 Welcome to the Junior Engineers Showcase! 🌟🎉
 
 This repository is a collection of **amazing work** by our students and instructors. It's a place to celebrate the creativity, skills, and innovation demonstrated throughout our coding, robotics, and digital technology programs. Here, you will find showcases of both **student projects** and **instructor-led projects** that have been developed as part of the Junior Engineers curriculum.
 
